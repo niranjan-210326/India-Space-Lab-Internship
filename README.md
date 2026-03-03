@@ -1,11 +1,14 @@
-# India Space Lab (ISL) Internship Portfolio
-This repository documents my rocket design and simulation work during my internship at India Space Lab.
+# 🚀 India Space Lab (ISL) Internship Portfolio
+Technical documentation for aerospace designs and simulations.
 
-## Projects List
-1.  **[Demo Rocket Design](./DEMO_ROCKET_DESIGN/)**
-    *   Initial prototype and stability testing.
-2.  **[Rocket Project Design](./Rocket_Project_Design/)**
-    *   Advanced simulation and performance optimization.
+## 📂 Projects Overview
+
+### 1. [Demo Rocket Design](./DEMO_ROCKET_DESIGN/)
+* Initial prototype and stability testing.
+
+### 2. [High-Altitude Rocket Project](./ROCKETRY_PROJECT_DESIGN/)
+* Mission-specific optimization to achieve 1000m+ altitude with a 1.43 cal stability margin.
 
 ---
-*Tools used: OpenRocket, VS Code*
+**Tools:** OpenRocket, VS Code, Git  
+**Organization:** India Space Lab
